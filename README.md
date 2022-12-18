@@ -12,7 +12,5 @@ https://github.com/EmirhanOzl/kodluyoruzilkrepo.git
 cd GitClone
 code .
 ```
-# Contributing
-
 # License
 [MIT]()
